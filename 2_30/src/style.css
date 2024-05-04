@@ -3,12 +3,14 @@
 body {
     background-color: rgb(88, 202, 88);
   }
+  
   .container {
     color: white;
     background: yellowgreen;
   }
+
+
   h1 {
-    color: white;
     text-align: center;
   }
   
