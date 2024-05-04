@@ -9,5 +9,5 @@
 ### Projects included so far are: 
 
 * A Rock, Paper, Scissors game.
-* A GitHub.io hosted website mainatined with HTML5, CSS and JAVASCRIPT. 
+* A GitHub.io hosted website mainatined with HTML5, CSS and Javascript. 
 
