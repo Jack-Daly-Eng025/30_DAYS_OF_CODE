@@ -4,4 +4,4 @@
 
 ## I made this repository to track my progress over 30 days as a developer. 
 
-## Completed/Favorite projects will be made into their own repositories after 30 days. 
+## 'Completed' projects will be made into their own repositories after 30 days. 

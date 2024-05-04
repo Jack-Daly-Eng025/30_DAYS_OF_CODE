@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! This is the first Python Project I uploaded. 
 
 # This is just a placeholder. 
 
