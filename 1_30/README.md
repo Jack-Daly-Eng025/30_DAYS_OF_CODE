@@ -2,7 +2,7 @@
 
 ## You can run this project from your console by using the executable provided. 
 
-## Or you can run main.py in the IDE/Python Enviroment of your choice. 
+## Or you can run the source code in the IDE/Python Enviroment of your choice. 
 
 ### This project requires the random and enum as dependencies. 
 
