@@ -8,6 +8,6 @@
 
 ### Projects included so far are: 
 
-* A Rock, Paper, Scissors game.
-* A GitHub.io hosted website mainatined with HTML5, CSS and Javascript. 
+* A Rock, Paper, Scissors game. WIP
+* A GitHub.io hosted website mainatined with HTML5, CSS and Javascript. WIP
 
