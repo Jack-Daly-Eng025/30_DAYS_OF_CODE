@@ -1,6 +1,10 @@
-# Hello World! This is the first Python Project I uploaded. 
+# Hello World! This is a simple game of Rock, Paper, Scissors. 
 
-# This is just a placeholder. 
+## You can run this project from your console by using the executable provided. 
 
-## This repository is still under construction. 
+## Or you can run the source code in the IDE/Python Enviroment of your choice. 
+
+### This project requires the random and enum as dependencies. 
+
+#### This project is a WIP. 
 
