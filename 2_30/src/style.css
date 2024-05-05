@@ -4,12 +4,16 @@
     background-color: aquamarine;
   }
   .container {
-    color: white;
     background: yellowgreen;
   }
 
 
   h1 {
+    text-align: center;
+    color: white;
+  }
+
+  h2 {
     text-align: center;
     color: white;
   }
