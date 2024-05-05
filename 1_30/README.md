@@ -1,6 +1,6 @@
 # Hello World! This is a simple game of Rock, Paper, Scissors. 
 
-## You can run this project from your comsole by using the executable. 
+## You can run this project from your console by using the executable provided. 
 
 ## Or you can run main.py in the IDE/Python Enviroment of your choice. 
 
