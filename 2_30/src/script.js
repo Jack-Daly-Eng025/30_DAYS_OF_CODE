@@ -1,6 +1,6 @@
 
 
-/* We don't don't question why it works, we just
+/* We don't don't question why it works, we just hope it does */
 import * as THREE from "https://cdn.skypack.dev/three@0.148.0";
 
 const scene = new THREE.Scene();
