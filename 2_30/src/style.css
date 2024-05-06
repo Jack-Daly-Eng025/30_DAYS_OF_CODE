@@ -1,14 +1,14 @@
 
 
   :root {
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 249);
   }
 
 
   h1 {
     text-align: center;
     color: white;
-    text-shadow: 2px 2px;
+    
   }
 
   h2 {
@@ -17,6 +17,9 @@
   }
   
   p {
+
+    text-align: center;
+    color: white;
     font-family: verdana;
     font-size: 20px;
   }
