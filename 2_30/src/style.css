@@ -1,8 +1,29 @@
   :root {
-    background-color: rgb(0, 0, 0);
+    --bg-color: rgb(0, 0, 0);
+    background-color: var(--bg-color);
+
   }
 
-
+  canvas{
+    display: -ms-flexbox;
+  }
+  .grid-container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: var(--bg-color);
+    padding: 2%;
+  }
+  
+  .grid-item {
+    margin: 0 auto;
+    background-color: rgba(33, 187, 192, 0.8);
+    border: 1px solid rgba(240, 234, 234, 0.8);
+    padding: 15px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
   h1 {
     text-align: center;
     color: white;
