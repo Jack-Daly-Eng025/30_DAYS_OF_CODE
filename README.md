@@ -10,4 +10,4 @@
 
 * A Rock, Paper, Scissors game. WIP
 * A GitHub.io hosted website mainatined with HTML5, CSS and Javascript. WIP
-
+* A Simple App made with Tauri and Leptos Tech-Stack. WIP
