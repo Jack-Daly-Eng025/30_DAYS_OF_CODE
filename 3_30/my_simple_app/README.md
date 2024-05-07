@@ -1,7 +1,5 @@
-# Tauri + Leptos
+# A simple App made with Tauri + Leptos
 
-This template should help get you started developing with Tauri and Leptos.
+## This is my first attempt with developing a app using Tauri and Leptos.
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+### A useable function will be decided later.
