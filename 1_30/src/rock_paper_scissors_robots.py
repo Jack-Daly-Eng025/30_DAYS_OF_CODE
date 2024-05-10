@@ -1,3 +1,12 @@
+"""
+Created on Sun May 5th  2024
+
+@author: Jack Daly
+"""
+
+
+
+
 import random as rd
 from enum import IntEnum
 
