@@ -9,6 +9,7 @@
 ## Since then however, I moved on to other projects and reprioritised. 
 
 There are pinned on my main GitHub page under my personal README.md
+[Jack's Profile](http://github.com/Jack-Daly-Eng025)
 
 ### Projects included  here were: 
 
