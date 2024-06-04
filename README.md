@@ -19,6 +19,6 @@ There are pinned on my main GitHub page under my personal README.md
   
 * A Simple App made with Tauri and Leptos Tech-Stack. I am still committed to mastering using Tauri as a developer, as I believe it will make my toolkit as a developer stronger and help me build more variety with my portfolio. Maybe I'll revisit this project.
   
-* A project folder showing a imperfect donut made in Blender- This was from a tutorial I never finished but need to revisit, because I have sinced decided on pursuing game development and want to learn how to make my own assets as a game dev. 
+* A project folder showing a imperfect donut made in Blender- This was from a tutorial I never finished but need to revisit, because I have since decided on pursuing game development and want to learn how to make my own assets as a game dev. 
 
 
